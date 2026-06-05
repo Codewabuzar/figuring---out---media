@@ -1,1 +1,1 @@
-export { default } from "./FiguringOutMedia_v2";
+export { default } from "./FiguringOutMedia_v2.jsx";
